@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pgLXgoOFzxs=",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\RPA_CefSharp_DMTwitter\\RPA_DM_TT\\RPA_DM_TT\\RPA_DM_TT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Fernandes\\.nuget\\packages\\cefsharp.common.netcore\\141.0.110\\cefsharp.common.netcore.141.0.110.nupkg.sha512",
+    "C:\\Users\\Gabriel Fernandes\\.nuget\\packages\\cefsharp.winforms.netcore\\141.0.110\\cefsharp.winforms.netcore.141.0.110.nupkg.sha512",
+    "C:\\Users\\Gabriel Fernandes\\.nuget\\packages\\chromiumembeddedframework.runtime\\141.0.11\\chromiumembeddedframework.runtime.141.0.11.nupkg.sha512",
+    "C:\\Users\\Gabriel Fernandes\\.nuget\\packages\\chromiumembeddedframework.runtime.win-arm64\\141.0.11\\chromiumembeddedframework.runtime.win-arm64.141.0.11.nupkg.sha512",
+    "C:\\Users\\Gabriel Fernandes\\.nuget\\packages\\chromiumembeddedframework.runtime.win-x64\\141.0.11\\chromiumembeddedframework.runtime.win-x64.141.0.11.nupkg.sha512",
+    "C:\\Users\\Gabriel Fernandes\\.nuget\\packages\\chromiumembeddedframework.runtime.win-x86\\141.0.11\\chromiumembeddedframework.runtime.win-x86.141.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
